@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3A5CA904-A54F-43E1-B26D-868A3B0ABED9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FD4FC879-289E-4E6F-83D3-9EE31812026A}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Chama.Assignment.Service", "src\Chama.Assignment.Service\Chama.Assignment.Service.xproj", "{4018FE23-240F-48E0-BC22-72CAC2184089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4018FE23-240F-48E0-BC22-72CAC2184089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4018FE23-240F-48E0-BC22-72CAC2184089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4018FE23-240F-48E0-BC22-72CAC2184089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4018FE23-240F-48E0-BC22-72CAC2184089}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4018FE23-240F-48E0-BC22-72CAC2184089} = {3A5CA904-A54F-43E1-B26D-868A3B0ABED9}
+	EndGlobalSection
+EndGlobal

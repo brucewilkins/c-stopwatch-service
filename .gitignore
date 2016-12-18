@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Nieuwsserivce/src/FloraHolland.Nieuwsserivce/obj/Debug/net46
+/Nieuwsserivce/src/FloraHolland.Nieuwsserivce/bin/Debug/net46
+
+/Nieuwsserivce/.vs
+/Nieuwsserivce/v14
+
+/Nieuwsserivce/.vs/Nieuwsserivce/v14
+
+/Nieuwsserivce/src/FloraHolland.Nieuwsserivce/bin/Release/net46
+/Nieuwsserivce/src/FloraHolland.Nieuwsserivce/obj/Release/net46
+/Nieuwsserivce/src/FloraHolland.Nieuwsserivce/Properties/PublishProfiles
+/Nieuwsserivce/src/FloraHolland.Nieuwsserivce/FloraHolland.Nieuwsserivce.xproj.user
+/Nieuwsserivce/src/FloraHolland.Nieuwsserivce/bin/Debug/net451
+/Nieuwsserivce/src/FloraHolland.Nieuwsserivce/obj/Debug/net451
+/Nieuwsserivce/src/FloraHolland.Nieuwsserivce/bin/Release/net451/win7-x64
+/Nieuwsserivce/src/FloraHolland.Nieuwsserivce/bin/Release/net451
+/Nieuwsserivce/src/FloraHolland.Nieuwsserivce/obj/Release/net451
